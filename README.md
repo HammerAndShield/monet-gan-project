@@ -5,11 +5,11 @@ This project implements a Generative Adversarial Network (GAN) to transform phot
 
 ## Project Structure
 - `notebooks/monet_gan.ipynb`: Main project notebook containing model development and training
-- `data/`: Directory containing training data
+- `data/`: Directory containing training data (You will have to provide, too large to keep in the repo)
  - `monet_jpg/`: 300 Monet paintings (256x256)
  - `photo_jpg/`: 7,038 photographs (256x256)
-- `generated_images/`: Directory containing generated Monet-style images
-- `images.zip`: Submission file containing generated images
+- `generated_images/`: Directory containing generated Monet-style images (Once you run the submission code)
+- `images.zip`: Submission file containing generated images (Once you run the submission code)
 
 ## Results
 - Training completed in 5 epochs (for time and simplicity)
